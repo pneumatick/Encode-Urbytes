@@ -1,7 +1,18 @@
 # Urbytes
+## Summary
 
 Urbytes is an attempt at creating a decentralized, peer-to-peer microblogging network using Urbit. It is designed in such a way that users own and directly control their posts and engagement information, allowing them to take it all with them wherever they bring their ship. Unlike SNS's such as Twitter, users aren't beholden to arbitrary censorship or manipulation on the native app, because all information is owned by the user, as stated above, and it is sent and received in a peer-to-peer fashion. It was also designed with the intention of allowing users to provide their information voluntarily to third-party services that can extend the functionality of the app, such as sentiment analysis on incoming posts, sophisticated recommendation algorithms, paid promotions for posts, and/or enhanced user discovery methods, just to give a few examples.
 
+## Functionality
+These are the basic functions of Urbytes (nomenclature described below):
+
+- Serving/deleting bites
+- Commenting on bites
+- Liking bites (toggleable)
+- Sharing bites (toggleable)
+- Following/unfollowing users
+
+Basically, all of the basic functionality of Twitter is available on Urbytes.
 
 # Nomenclature Guide
 
